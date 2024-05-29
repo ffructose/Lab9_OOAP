@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\унік\ООАП\9\Lab9_OOAP\Patter_Adapter+Facade\AdapterFacade\main.cpp(13,95): warning C4305: 'argument': truncation from 'double' to 'float'
+  AdapterFacade.vcxproj -> D:\унік\ООАП\9\Lab9_OOAP\Patter_Adapter+Facade\AdapterFacade\x64\Debug\AdapterFacade.exe
